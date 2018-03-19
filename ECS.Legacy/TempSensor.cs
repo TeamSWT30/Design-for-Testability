@@ -7,9 +7,9 @@
             return 25;
         }
 
-        public bool RunSelfTest()
-        {
-            return true;
-        }
+        //public bool RunSelfTest()
+        //{
+        //    return true;
+        //}
     }
 }

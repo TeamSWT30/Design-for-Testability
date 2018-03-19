@@ -12,9 +12,9 @@
             System.Console.WriteLine("Heater is off");
         }
 
-        public bool RunSelfTest()
-        {
-            return true;
-        }
+        //public bool RunSelfTest()
+        //{
+        //    return true;
+        //}
     }
 }
